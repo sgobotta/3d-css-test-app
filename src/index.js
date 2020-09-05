@@ -1,3 +1,6 @@
-import Test from "3d-css-scene"
+import Test, { test } from "3d-css-scene"
 
-console.log(Test)
+console.log('export Test ', Test)
+console.log('export test ', test)
+
+
